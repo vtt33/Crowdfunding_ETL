@@ -33,7 +33,6 @@ CREATE TABLE contacts (
 
 SELECT * FROM contacts;
 
-SELECT * FROM 
 
 -- Drop table for Campaigns if it exists
 DROP TABLE IF EXISTS campaigns CASCADE;
